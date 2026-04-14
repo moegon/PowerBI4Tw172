@@ -1,0 +1,11 @@
+# Ignore environment files
+.env
+
+# React Native build files
+node_modules/
+android/
+ios/
+
+# Docker files
+*.image
+doocker-compose.override.yml
